@@ -1,0 +1,23 @@
+main{
+    margin: 0px auto;
+    padding: 30px 0px;
+    width: 700px;
+    background-color: #35676e;
+}
+header{
+    text-align: center;
+    background-color: #0a5991;
+    color:white;
+}
+body{
+    background-color: #65c2cf;
+}
+#form{
+    text-align: center;
+}
+.hide{
+    display: none;
+}
+.center{
+    text-align: center;
+}
